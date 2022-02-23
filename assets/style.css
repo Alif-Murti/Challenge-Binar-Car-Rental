@@ -1,0 +1,125 @@
+.navbar {
+  background-color: rgba(241, 243, 255, 1);
+}
+.nav-item {
+  font-family: Helvetica, sans-serif;
+}
+/* header2 */
+#header2 {
+  background-color: rgba(241, 243, 255, 1);
+  margin-bottom: 120px;
+  padding-left: 136px;
+  overflow: hidden;
+}
+.teks {
+  padding-right: 100px;
+  margin-bottom: 23px;
+}
+.gambar_mobil {
+  height: 330px;
+  right: 0px;
+  width: auto;
+  position: absolute;
+}
+.judul_header2 {
+  font-family: Helvetica;
+  font-size: 36px;
+}
+.tulisan_header2 {
+  font-family: Helvetica;
+  font-size: 14px;
+}
+/* header2 */
+
+/* ourservices */
+#ourservices {
+  padding-left: 136px;
+  margin-right: 100px;
+}
+.gambar_orang {
+  width: 380px;
+  height: auto;
+  margin-left: 40px;
+}
+.judul_ourservices {
+  font-family: Helvetica;
+  font-size: 24px;
+}
+.tulisan_ourservices {
+  font-family: Helvetica;
+  font-size: 14px;
+}
+#ourservices li img {
+  vertical-align: middle;
+  margin-left: -32px;
+  margin-right: 20px;
+}
+ul {
+  list-style: none;
+}
+/* ourservices */
+
+/* whyus */
+#whyus {
+  padding-left: 136px;
+  padding-right: 130px;
+}
+.card-title {
+  font-family: Helvetica;
+  font-size: 16px;
+}
+.card-text {
+  font-size: 14px;
+}
+/* whyus */
+
+/* header3 */
+#header3 {
+  margin-left: 136px;
+  margin-right: 130px;
+  background-color: rgba(13, 40, 166, 1);
+  border-radius: 25px;
+}
+.judul_whyus {
+  font-family: Helvetica;
+  font-size: 24px;
+}
+.tulisan_whyus {
+  font-family: Helvetica;
+  font-size: 14px;
+}
+
+/* FAQ */
+#faq {
+  margin-left: 136px;
+  margin-right: 130px;
+}
+.judul_faq {
+  font-family: Helvetica;
+  font-size: 24px;
+}
+.tulisan_faq {
+  font-family: Helvetica;
+  font-size: 14px;
+}
+
+/* footer */
+#footer {
+  margin-left: 136px;
+  margin-right: 130px;
+}
+.tulisan_footer {
+  font-family: Helvetica;
+  font-size: 14px;
+}
+
+.link_footer {
+  text-decoration: none;
+}
+
+.logo_biru {
+  width: 100px;
+  height: 34px;
+  background-color: rgba(13, 40, 166, 1);
+  color: rgba(13, 40, 166, 1);
+}

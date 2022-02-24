@@ -4,6 +4,7 @@
 .nav-item {
   font-family: Helvetica, sans-serif;
 }
+
 /* header2 */
 #header2 {
   background-color: rgba(241, 243, 255, 1);
@@ -16,7 +17,7 @@
   margin-bottom: 23px;
 }
 .gambar_mobil {
-  height: 330px;
+  height: 310px;
   right: 0px;
   width: auto;
   position: absolute;
@@ -75,6 +76,8 @@ ul {
 
 /* header3 */
 #header3 {
+  width: 1168px;
+  height: 326px;
   margin-left: 136px;
   margin-right: 130px;
   background-color: rgba(13, 40, 166, 1);
@@ -87,6 +90,52 @@ ul {
 .tulisan_whyus {
   font-family: Helvetica;
   font-size: 14px;
+}
+.kotak_biru {
+  padding-top: 100px;
+}
+
+/* testimonials */
+.testi_card {
+  height: 270px;
+  width: 619px;
+  background-color: rgba(241, 243, 255, 1) !important;
+  border-radius: 8px;
+  box-shadow: -1px 3px 5px rgba(0, 0, 0, 0.15);
+}
+
+#testimonial {
+  overflow: hidden;
+}
+
+.testi1 {
+  position: absolute;
+  margin-left: -250px;
+}
+
+.testi2 {
+  align-items: center;
+  margin-left: -70px;
+}
+
+.testi3 {
+  position: relative;
+  margin-left: 110px;
+}
+
+.txt_testi {
+  font-size: 14px;
+  font-family: Helvetica;
+}
+
+.active-star {
+  color: #fbc02d;
+  margin-bottom: 8px;
+}
+
+.judul_testi {
+  font-family: Helvetica;
+  font-size: 24px;
 }
 
 /* FAQ */
@@ -107,6 +156,7 @@ ul {
 #footer {
   margin-left: 136px;
   margin-right: 130px;
+  margin-bottom: 100px;
 }
 .tulisan_footer {
   font-family: Helvetica;
